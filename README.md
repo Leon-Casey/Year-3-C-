@@ -1,2 +1,2 @@
 # Year-3-C++
-Data Structures &amp; Algorithms Module. Everything written in C++.
+Computer Science Module. All projects written in C++ using Visual Studio 2017.
